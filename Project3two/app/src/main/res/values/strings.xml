@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Project 3 two</string>
+    <string name="title_activity_main">Companion Application</string>
+    <string name="chicago">Chicago</string>
+    <string name="indiana">Indianapolis</string>
+    <string name="MainString">This is the companion app to Project 3 one that sends a global broadcast.  The matching receiver will then start a new activity.</string>
+
+    <string-array name="interests">
+
+        <item>Millenium Park</item>
+        <item>Museum of Science</item>
+        <item>Art Institute</item>
+        <item>Willis Tower</item>
+        <item>Lincoln Park Zoo</item>
+        <item>The bean</item>
+        <item>Navy Pier</item>
+        <item>Shedd Aquarium</item>
+        <item>Adler Planetarium</item>
+        <item>Buckingham Fountain</item>
+        <item>Soldier Field</item>
+        <item>Chicago Theatre</item>
+
+    </string-array>
+
+
+    <string-array name="interestsindiana">
+
+        <item>Motor Speedway</item>
+        <item>State Museum</item>
+        <item>Victory Field</item>
+        <item>Indianpolis zoo</item>
+        <item>Lucas Oil Stadium</item>
+        <item>RCA Dome</item>
+
+    </string-array>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="milleniumpark">https://en.wikipedia.org/wiki/Millennium_Park</string>
+    <string name="museum">https://en.wikipedia.org/wiki/Museum_of_Science_and_Industry_(Chicago)</string>
+    <string name="artinstitute">https://en.wikipedia.org/wiki/Art_Institute_of_Chicago</string>
+    <string name="willis">https://en.wikipedia.org/wiki/Willis_Tower</string>
+    <string name="zoo">https://en.wikipedia.org/wiki/Lincoln_Park_Zoo</string>
+    <string name="bean">https://en.wikipedia.org/wiki/Cloud_Gate</string>
+    <string name="navypier">https://en.wikipedia.org/wiki/Navy_Pier</string>
+    <string name="shedd">https://en.wikipedia.org/wiki/Shedd_Aquarium</string>
+    <string name="adler">https://en.wikipedia.org/wiki/Adler_Planetarium</string>
+    <string name="buckingham">https://en.wikipedia.org/wiki/Buckingham_Fountain</string>
+    <string name="soldier">https://en.wikipedia.org/wiki/Soldier_Field</string>
+    <string name="theatre">https://en.wikipedia.org/wiki/Chicago_Theatre</string>
+
+
+    <string name="motorspeedway">https://en.wikipedia.org/wiki/Indianapolis_Motor_Speedway</string>
+    <string name="statemuseum">https://en.wikipedia.org/wiki/Indiana_State_Museum</string>
+    <string name="victoryfield">https://en.wikipedia.org/wiki/Victory_Field</string>
+    <string name="indianpoliszoo">https://en.wikipedia.org/wiki/Indianapolis_Zoo</string>
+    <string name="lucasoilstadium">https://en.wikipedia.org/wiki/Lucas_Oil_Stadium</string>
+    <string name="rcaDome">https://en.wikipedia.org/wiki/RCA_Dome</string>
+
+
+</resources>
