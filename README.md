@@ -11,6 +11,5 @@ This is an android application which will be used to search for tourist spots in
 <br><br>
 <pre>
 <a href="url"><img src="https://github.com/sbajaj7/Android_Tourism_App/blob/master/2.png" align="center" height="280" width="430" ></a>
-
 <a href="url"><img src="https://github.com/sbajaj7/Android_Tourism_App/blob/master/4.png" align="center" height="280" width="430" ></a>
 </pre>
